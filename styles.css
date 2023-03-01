@@ -138,3 +138,12 @@ footer p {
   border-radius: 50%;
   z-index: 9999;
 }
+
+#linkedin-float i {
+  font-size: 24px;
+  color: #fff;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
